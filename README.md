@@ -94,3 +94,6 @@ Pastikan URL base di app.js sudah mengarah ke http://localhost:8080/api.
 Video Presentasi: [Link YouTube]
 
 Database Relational Schema:
+
+<img width="328" height="320" alt="image" src="https://github.com/user-attachments/assets/fed7688f-783d-47db-8e1b-b828ff812525" />
+
